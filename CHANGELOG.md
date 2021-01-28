@@ -1,3 +1,7 @@
+### [1.6](https://github.com/IQTLabs/pipette/compare/v1.5...v1.6) (2021-01-29)
+
+Multiple instance support.
+
 ### [1.5](https://github.com/IQTLabs/pipette/compare/v1.4...v1.5) (2021-01-20)
 
 Add tc processing support.
